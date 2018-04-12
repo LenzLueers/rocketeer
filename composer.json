@@ -42,11 +42,11 @@
     "symfony/var-dumper": "~2.6"
   },
   "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/lenzlueers/remote.git"
-        }
-    ],
+    {
+      "type": "vcs",
+      "url": "https://github.com/lenzlueers/rocketeer.git"
+    },   
+  ],
   "suggest": {
     "anahkiasen/rocketeer-campfire": "Campfire plugin to create deployments notifications",
     "anahkiasen/rocketeer-slack": "Slack plugin to create deployments notifications",
