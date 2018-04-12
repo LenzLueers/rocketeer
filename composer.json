@@ -45,7 +45,7 @@
     {
       "type": "vcs",
       "url": "https://github.com/lenzlueers/rocketeer.git"
-    },   
+    }  
   ],
   "suggest": {
     "anahkiasen/rocketeer-campfire": "Campfire plugin to create deployments notifications",
