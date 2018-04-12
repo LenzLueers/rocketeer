@@ -1,4 +1,18 @@
-# Rocketeer
+# PATCHED Rocketeer 2.2.5 with phpseclib 2.*
+
+## Static fix for rocketeer SSH issues due to an old phpseclib
+
+see: https://github.com/rocketeers/rocketeer/issues/755
+
+Since the original illuminate/remote library is abandoned, I created a fork of illuminate/remote version 4.2 to update the related phpseclib/phpseclib package.
+I created this fork of rocketeers/rocketeer version 2.2.5 to use my patched library of illuminate/remote.
+It is working for my purposes using rocketeers/rocketeer, but I can neither guarantee its stability nor its maintenance.
+
+# Maintenance
+
+This fork is a static fix only and will NOT be maintained.
+
+USE AT YOUR OWN RISK
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rocketeers/rocketeer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
