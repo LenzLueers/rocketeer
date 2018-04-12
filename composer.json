@@ -44,7 +44,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/lenzlueers/rocketeer.git"
+      "url": "https://github.com/lenzlueers/remote.git"
     }  
   ],
   "suggest": {
